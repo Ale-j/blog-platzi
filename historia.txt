@@ -1,0 +1,6 @@
+Hola, soy Alejo desde el desktop pc
+
+Esta es otra version del historia.txt hecho en el portatil 
+
+
+Generaré algunos cambios más para tener lago con lo que jugar en git y sus versiones
