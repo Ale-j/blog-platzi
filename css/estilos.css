@@ -3,4 +3,21 @@ body
     color: darkgreen;
     text-align: center;
     font-family: Arial;
+    font-size: 20px;
+    margin: 1;
+    padding: 1;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid crimson;
+    margin: auto;
+}
+
+#container h1
+{
+    font-size: 80px;
 }
