@@ -46,3 +46,10 @@ body
 {
     font-size: 80px;
 }
+
+#footer
+{
+    background-color: cornflowerblue;
+    color: antiquewhite;
+    text-align: center;
+}
