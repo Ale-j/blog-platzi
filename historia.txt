@@ -6,7 +6,13 @@ Esta es otra version del historia.txt hecho en el portatil
 Generaré algunos cambios más para tener lago con lo que jugar en git y sus versiones
 
 
+<<<<<<< HEAD
 Main 1 (git rebase class):
     1. experimento 
     2. experimento segundo
     
+=======
+Main 1 (git rebase class) 
+
+Main 2 
+>>>>>>> f0366ee (añade main 2)
